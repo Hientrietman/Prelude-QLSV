@@ -477,3 +477,4 @@ D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.TaoTaiKhoan.resources
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.QuenMatKhau.resources

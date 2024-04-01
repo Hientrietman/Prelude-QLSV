@@ -1,4 +1,5 @@
-﻿using DAO;
+﻿using BUS;
+using DAO;
 using DTO;
 using System;
 using System.Collections.Generic;
@@ -22,11 +23,20 @@ namespace GUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            DataTable dt = new DataTable();
-            dt = DataProvider.Instance.ExecuteQuery("select * from TaiKhoan");
-            
-            TaiKhoanDTO taiKhoanDTO = new TaiKhoanDTO(dt.Rows[0]);
-            label1.Text = taiKhoanDTO.MaTK;
+           
         }
+
+        private void btnXacNhan_Click(object sender, EventArgs e)
+        {
+            TaiKhoanDTO taiKhoan = new TaiKhoanDTO();
+            taiKhoan.MaTK = "AAA";
+            taiKhoan.TenDangNhap=Klabel_nhaptentaikhoan.Text;
+            taiKhoan.MatKhau =Klabel_nhapmatkhau.Text;
+            taiKhoan.VaiTro= Kcb_chonloaitaikhoan.SelectedIndex;
+
+            TaoTaiKhoanBUS.Instance.TaoTaiKhoan(taiKhoan);
+        }
+
+        
     }
 }

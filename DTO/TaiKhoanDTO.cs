@@ -23,7 +23,9 @@ namespace DTO
         public string HoTen { get; set; }
         public string GioiTinh { get; set; }
 
-
+        public TaiKhoanDTO()
+        {
+        }
 
         public TaiKhoanDTO(DataRow row)
         {
@@ -40,6 +42,7 @@ namespace DTO
             GioiTinh = row["GioiTinh"].ToString();
         }
 
+      
     }
 
 }
