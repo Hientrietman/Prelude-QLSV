@@ -1,0 +1,75 @@
+D:\Nhom5_CNPM\QLSTK\DTO\bin\Debug\DTO.dll
+D:\Nhom5_CNPM\QLSTK\DTO\bin\Debug\DTO.pdb
+D:\Nhom5_CNPM\QLSTK\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Nhom5_CNPM\QLSTK\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Nhom5_CNPM\QLSTK\DTO\obj\Debug\DTO.dll
+D:\Nhom5_CNPM\QLSTK\DTO\obj\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\bin\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\obj\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DTO\obj\Debug\DTO.pdb
+D:\QLSTK\DTO\bin\Debug\DTO.dll
+D:\QLSTK\DTO\bin\Debug\DTO.pdb
+D:\QLSTK\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLSTK\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLSTK\DTO\obj\Debug\DTO.dll
+D:\QLSTK\DTO\obj\Debug\DTO.pdb
+D:\QLSTK\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\TestQlstk\New folder\QLSTK1\DTO\bin\Debug\DTO.dll
+D:\TestQlstk\New folder\QLSTK1\DTO\bin\Debug\DTO.pdb
+D:\TestQlstk\New folder\QLSTK1\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TestQlstk\New folder\QLSTK1\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TestQlstk\New folder\QLSTK1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\TestQlstk\New folder\QLSTK1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\TestQlstk\New folder\QLSTK1\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\TestQlstk\New folder\QLSTK1\DTO\obj\Debug\DTO.dll
+D:\TestQlstk\New folder\QLSTK1\DTO\obj\Debug\DTO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\bin\Debug\DTO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\bin\Debug\DTO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\obj\Debug\DTO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DTO\obj\Debug\DTO.pdb
+D:\QLSTK_new\QLSTK_Final\DTO\bin\Debug\DTO.dll
+D:\QLSTK_new\QLSTK_Final\DTO\bin\Debug\DTO.pdb
+D:\QLSTK_new\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\QLSTK_Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLSTK_new\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\QLSTK_new\QLSTK_Final\DTO\obj\Debug\DTO.dll
+D:\QLSTK_new\QLSTK_Final\DTO\obj\Debug\DTO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\DTO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\DTO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\DTO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\DTO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DTO\obj\Debug\DTO.pdb
+D:\Agile\Prelude\QLSTK_Final\DTO\bin\Debug\DTO.dll
+D:\Agile\Prelude\QLSTK_Final\DTO\bin\Debug\DTO.pdb
+D:\Agile\Prelude\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Prelude\QLSTK_Final\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.dll
+D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.pdb

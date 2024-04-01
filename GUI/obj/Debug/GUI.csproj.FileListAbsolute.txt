@@ -1,0 +1,479 @@
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\GUI.exe
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.exe
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\Nhom5_CNPM\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\BUS.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\DTO.dll
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\Nhom5_CNPM\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\GUI.exe
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\BUS.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.exe
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\QLSTK\GUI\bin\Debug\GUI.exe
+D:\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\QLSTK\GUI\bin\Debug\BUS.dll
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\QLSTK\GUI\bin\Debug\DAO.dll
+D:\QLSTK\GUI\bin\Debug\DTO.dll
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLSTK\GUI\obj\Debug\GUI.exe
+D:\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\QLSTK\GUI\obj\Debug\GUI.ThayDoiThoiGianGuiToiThieu.resources
+D:\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\GUI.exe.config
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\GUI.exe
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\GUI.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\BUS.dll
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\DAO.dll
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\DTO.dll
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\BUS.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\DAO.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\DTO.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TestQlstk\New folder\QLSTK1\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.Info.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.Login.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.Main.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.MoSo.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.ThayDoiThoiGianGuiToiThieu.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.exe
+D:\TestQlstk\New folder\QLSTK1\GUI\obj\Debug\GUI.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\CNPM\QLSTK\GUI\bin\Debug\GUI.exe
+D:\CNPM\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\BUS.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\DAO.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\DTO.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\CNPM\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\CNPM\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNPM\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.exe
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\CNPM\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\GUI.exe.config
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\GUI.exe
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\GUI.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\BUS.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\DAO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\DTO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\BUS.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\DAO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\DTO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.Info.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.Login.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.Main.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.exe
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\GUI.exe
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\BUS.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.exe
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\GUI\obj\Debug\GUI.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\GUI.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\GUI.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\GUI.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\BUS.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\DAO.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\DTO.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.Info.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.Login.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.Main.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\GUI.exe
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\BUS.dll
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\DAO.dll
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\DTO.dll
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_GiaoDien\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.exe
+D:\QLSTK_GiaoDien\QLSTK\GUI\obj\Debug\GUI.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\GUI.exe.config
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\GUI.exe
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\GUI.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\BUS.dll
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\DAO.dll
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\DTO.dll
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\BUS.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\DAO.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\DTO.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\QLSTK\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.Info.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.Login.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.Main.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.MoSo.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.exe
+D:\QLSTK_new\QLSTK\GUI\obj\Debug\GUI.pdb
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\GUI.exe.config
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\GUI.exe
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\GUI.pdb
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\BUS.dll
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\DAO.dll
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\DTO.dll
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\BUS.pdb
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\DAO.pdb
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\DTO.pdb
+D:\QLSTK_new\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.Info.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.Login.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.Main.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.MoSo.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.exe
+D:\QLSTK_new\QLSTK_Final\GUI\obj\Debug\GUI.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.exe.config
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.exe
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\BUS.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DAO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DTO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\BUS.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DAO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DTO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Info.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Login.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Main.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.MoSo.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.exe
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.exe.config
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.exe
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\GUI.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\BUS.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DAO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DTO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\BUS.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DAO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\DTO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Info.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoDongMoHangThang.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapBaoCaoNgay.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuGui.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.LapPhieuRut.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Login.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Main.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.MoSo.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.Quanlytaikhoan.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiKyHan.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.ThayDoiLaiSuat.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.TraCuuSo.resources
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.exe
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.Form1.resources
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.exe
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\GUI.exe.config
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\GUI.exe
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\GUI.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\BUS.dll
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\DAO.dll
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\DTO.dll
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\BUS.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\DAO.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\DTO.pdb
+D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete

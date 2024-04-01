@@ -1,0 +1,139 @@
+D:\Nhom5_CNPM\QLSTK\DAO\bin\Debug\DAO.dll
+D:\Nhom5_CNPM\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\Nhom5_CNPM\QLSTK\DAO\bin\Debug\DTO.dll
+D:\Nhom5_CNPM\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\Nhom5_CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Nhom5_CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Nhom5_CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Nhom5_CNPM\QLSTK\DAO\obj\Debug\DAO.dll
+D:\Nhom5_CNPM\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\obj\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\bin\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\bin\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\Nhập môn công nghệ phàn mềm\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QLSTK\DAO\bin\Debug\DAO.dll
+D:\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\QLSTK\DAO\bin\Debug\DTO.dll
+D:\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QLSTK\DAO\obj\Debug\DAO.dll
+D:\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\DAO.dll
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\DAO.pdb
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\DTO.dll
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\DTO.pdb
+D:\TestQlstk\New folder\QLSTK1\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TestQlstk\New folder\QLSTK1\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\TestQlstk\New folder\QLSTK1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\TestQlstk\New folder\QLSTK1\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\TestQlstk\New folder\QLSTK1\DAO\obj\Debug\DAO.dll
+D:\TestQlstk\New folder\QLSTK1\DAO\obj\Debug\DAO.pdb
+D:\CNPM\QLSTK\DAO\bin\Debug\DAO.dll
+D:\CNPM\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\CNPM\QLSTK\DAO\bin\Debug\DTO.dll
+D:\CNPM\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CNPM\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\CNPM\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNPM\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CNPM\QLSTK\DAO\obj\Debug\DAO.dll
+D:\CNPM\QLSTK\DAO\obj\Debug\DAO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\DAO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\DAO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\DTO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\DTO.pdb
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\obj\Debug\DAO.dll
+C:\Users\phuong\Desktop\QLSTK_Final\QLSTK\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\DTO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\obj\Debug\DAO.dll
+D:\Baitap_Tailieu_DH\HK2_2022-2023\NhapMonCongNghePhanMem\QLSTK\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\DAO.dll
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\DAO.pdb
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\DTO.dll
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\DTO.pdb
+D:\QLSTK_GiaoDien\QLSTK\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_GiaoDien\QLSTK\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QLSTK_GiaoDien\QLSTK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QLSTK_GiaoDien\QLSTK\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QLSTK_GiaoDien\QLSTK\DAO\obj\Debug\DAO.dll
+D:\QLSTK_GiaoDien\QLSTK\DAO\obj\Debug\DAO.pdb
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\DAO.dll
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\DAO.pdb
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\DTO.dll
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\DTO.pdb
+D:\QLSTK_new\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\QLSTK_Final\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QLSTK_new\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QLSTK_new\QLSTK_Final\DAO\obj\Debug\DAO.dll
+D:\QLSTK_new\QLSTK_Final\DAO\obj\Debug\DAO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DAO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DAO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DTO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DTO.pdb
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.dll
+D:\QLSTK_new\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DAO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DAO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DTO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\DTO.pdb
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.dll
+D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\DAO\obj\Debug\DAO.pdb
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\DAO.dll
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\DAO.pdb
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\DTO.dll
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\DTO.pdb
+D:\Agile\Prelude\QLSTK_Final\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.dll
+D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.pdb
