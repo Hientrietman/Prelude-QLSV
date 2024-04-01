@@ -459,7 +459,6 @@ D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug
 D:\Agile\Nhom5-QuanLySoTietKiem\Nhom5-QuanLySoTietKiem\QLSTK_Final\GUI\obj\Debug\GUI.pdb
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
-D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.Form1.resources
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.exe
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.pdb
@@ -477,3 +476,4 @@ D:\Agile\Prelude\QLSTK_Final\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.x
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.Properties.Resources.resources
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Agile\Prelude\QLSTK_Final\GUI\obj\Debug\GUI.TaoTaiKhoan.resources
