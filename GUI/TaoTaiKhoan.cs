@@ -28,15 +28,26 @@ namespace GUI
 
         private void btnXacNhan_Click(object sender, EventArgs e)
         {
-            TaiKhoanDTO taiKhoan = new TaiKhoanDTO();
-            taiKhoan.MaTK = "AAA";
-            taiKhoan.TenDangNhap=Klabel_nhaptentaikhoan.Text;
-            taiKhoan.MatKhau =Klabel_nhapmatkhau.Text;
-            taiKhoan.VaiTro= Kcb_chonloaitaikhoan.SelectedIndex;
+           
+            string MaTK = txtUserName.Text;
+            string matkhau = txtPassWord.Text;
+            string tendangnhap = txtUserName.Text;
+            int vaitro = Kcb_chonloaitaikhoan.SelectedIndex +1;
+           
+            TaiKhoanDTO taiKhoan = new TaiKhoanDTO(MaTK,matkhau,tendangnhap,vaitro);
 
-            TaoTaiKhoanBUS.Instance.TaoTaiKhoan(taiKhoan);
+
+            if (TaoTaiKhoanBUS.Instance.TaoTaiKhoan(taiKhoan))
+            {
+                MessageBox.Show("Tạo tài khoản thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Tạo tài khoản không thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
-        
+
+
     }
 }

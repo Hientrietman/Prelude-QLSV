@@ -15,18 +15,11 @@ namespace DAO
 
         public bool TaoTaiKhoan(TaiKhoanDTO taikhoan)
         {
-            string query = "";
+            string query = String.Format("INSERT INTO TaiKhoan (MaTK, TenDangNhap, MatKhau, VaiTro, HoTen) VALUES ('{0}','{1}','{2}',{3},'{4}')", taikhoan.TenDangNhap, taikhoan.TenDangNhap, taikhoan.MatKhau, taikhoan.VaiTro, taikhoan.HoTen);
 
             int rowsAffected = DataProvider.Instance.ExecuteNonQuery(query);
 
-            if (rowsAffected > 0)
-            {
-               return true;
-            }
-            else
-            {
-               return false;
-            }
+            return rowsAffected > 0;
         }
     }
 }

@@ -26,7 +26,14 @@ namespace DTO
         public TaiKhoanDTO()
         {
         }
-
+        public TaiKhoanDTO(string maTK, string tenDangNhap, string matKhau, int vaiTro, string HoTen = "Quý")
+        {
+            MaTK = maTK;
+            TenDangNhap = tenDangNhap;
+            MatKhau = matKhau;
+            VaiTro = vaiTro;
+            // Khởi tạo các thuộc tính khác nếu cần
+        }
         public TaiKhoanDTO(DataRow row)
         {
             MaTK = row["MaTK"].ToString();

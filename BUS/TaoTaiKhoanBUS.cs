@@ -18,10 +18,10 @@ namespace BUS
             private set { instance = value; }
         }
 
-        public void TaoTaiKhoan(TaiKhoanDTO taikhoan)
+        public bool TaoTaiKhoan(TaiKhoanDTO taikhoan)
         {
       
-            TaoTaiKhoanDAO.Instance.TaoTaiKhoan(taikhoan);
+            return TaoTaiKhoanDAO.Instance.TaoTaiKhoan(taikhoan);
         }
     }
 }
