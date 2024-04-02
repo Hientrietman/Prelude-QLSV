@@ -73,3 +73,12 @@ D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.csproj.CopyComplete
 D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.dll
 D:\Agile\Prelude\QLSTK_Final\DTO\obj\Debug\DTO.pdb
+D:\Agile\DTO\bin\Debug\DTO.dll
+D:\Agile\DTO\bin\Debug\DTO.pdb
+D:\Agile\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Agile\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Agile\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Agile\DTO\obj\Debug\DTO.dll
+D:\Agile\DTO\obj\Debug\DTO.pdb

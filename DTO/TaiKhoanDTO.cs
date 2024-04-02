@@ -42,7 +42,15 @@ namespace DTO
             GioiTinh = row["GioiTinh"].ToString();
         }
 
-      
+        public TaiKhoanDTO(string maTK, string tenDangNhap, string matKhau, int vaiTro, string hoten="")
+        {
+            MaTK = maTK;
+            TenDangNhap = tenDangNhap;
+            MatKhau = matKhau;
+            VaiTro = vaiTro;
+            // Khởi tạo các thuộc tính khác nếu cần
+        }
     }
-
 }
+
+
