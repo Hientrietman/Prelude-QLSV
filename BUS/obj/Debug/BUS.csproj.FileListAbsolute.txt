@@ -163,3 +163,16 @@ D:\Agile\Prelude\QLSTK_Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\Agile\Prelude\QLSTK_Final\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Agile\Prelude\QLSTK_Final\BUS\obj\Debug\BUS.dll
 D:\Agile\Prelude\QLSTK_Final\BUS\obj\Debug\BUS.pdb
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\BUS.dll
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\BUS.pdb
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\DAO.dll
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\DTO.dll
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\DAO.pdb
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\DTO.pdb
+D:\Agile\Prelude-QLSV\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Prelude-QLSV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Agile\Prelude-QLSV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Agile\Prelude-QLSV\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Agile\Prelude-QLSV\BUS\obj\Debug\BUS.dll
+D:\Agile\Prelude-QLSV\BUS\obj\Debug\BUS.pdb

@@ -137,3 +137,14 @@ D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.dll
 D:\Agile\Prelude\QLSTK_Final\DAO\obj\Debug\DAO.pdb
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\DAO.dll
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\DAO.pdb
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\DTO.dll
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\DTO.pdb
+D:\Agile\Prelude-QLSV\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\Prelude-QLSV\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Agile\Prelude-QLSV\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Agile\Prelude-QLSV\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Agile\Prelude-QLSV\DAO\obj\Debug\DAO.dll
+D:\Agile\Prelude-QLSV\DAO\obj\Debug\DAO.pdb
