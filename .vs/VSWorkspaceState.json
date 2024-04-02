@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GUI"
+    "\\GUI",
+    "\\GUI\\obj",
+    "\\GUI\\Properties",
+    "\\packages",
+    "\\Setup_QLSTK"
   ],
-  "SelectedNode": "\\GUI\\LapPhieuGui.cs",
+  "SelectedNode": "\\GUI\\TaoTaiKhoan.resx",
   "PreviewInSolutionExplorer": false
 }
