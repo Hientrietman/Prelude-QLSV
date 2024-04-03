@@ -28,15 +28,31 @@ namespace GUI
 
         private void btnXacNhan_Click(object sender, EventArgs e)
         {
-            TaiKhoanDTO taiKhoan = new TaiKhoanDTO();
-            taiKhoan.MaTK = "AAA";
-            taiKhoan.TenDangNhap=Klabel_nhaptentaikhoan.Text;
-            taiKhoan.MatKhau =Klabel_nhapmatkhau.Text;
-            taiKhoan.VaiTro= Kcb_chonloaitaikhoan.SelectedIndex;
+            // Kiểm tra tính hợp lệ của các trường dữ liệu đầu vào
+            if (string.IsNullOrEmpty(txtUserName.Text) || string.IsNullOrEmpty(txtPassWord.Text))
+            {
+                MessageBox.Show("Vui lòng nhập tên đăng nhập và mật khẩu!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-            TaoTaiKhoanBUS.Instance.TaoTaiKhoan(taiKhoan);
+            // Tạo đối tượng TaiKhoanDTO từ các trường dữ liệu người dùng nhập vào
+            TaiKhoanDTO taiKhoan = new TaiKhoanDTO(txtUserName.Text, txtUserName.Text, txtPassWord.Text, Kcb_chonloaitaikhoan.SelectedIndex);
+
+            // Gọi phương thức tạo tài khoản từ lớp BUS
+            bool isSuccess = TaoTaiKhoanBUS.Instance.TaoTaiKhoan(taiKhoan);
+
+            // Hiển thị thông báo tương ứng với kết quả tạo tài khoản
+            if (isSuccess)
+            {
+                MessageBox.Show("Tạo tài khoản thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Tạo tài khoản không thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
-        
+
+
     }
 }
