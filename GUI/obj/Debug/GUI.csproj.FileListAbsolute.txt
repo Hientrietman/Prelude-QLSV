@@ -502,3 +502,4 @@ D:\Agile\Prelude-QLSV\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Agile\Prelude-QLSV\GUI\obj\Debug\GUI.exe
 D:\Agile\Prelude-QLSV\GUI\obj\Debug\GUI.pdb
 D:\Agile\Prelude-QLSV\GUI\obj\Debug\GUI.TrangchuGiaoVien.resources
+D:\Agile\Prelude-QLSV\GUI\obj\Debug\GUI.TrangchuQuanLy.resources

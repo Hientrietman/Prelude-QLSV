@@ -71,6 +71,12 @@
     <Compile Include="TrangchuGiaoVien.Designer.cs">
       <DependentUpon>TrangchuGiaoVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="TrangchuQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangchuQuanLy.Designer.cs">
+      <DependentUpon>TrangchuQuanLy.cs</DependentUpon>
+    </Compile>
     <Compile Include="TrangchuSInhVien.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +99,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="TrangchuGiaoVien.resx">
       <DependentUpon>TrangchuGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangchuQuanLy.resx">
+      <DependentUpon>TrangchuQuanLy.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TrangchuSInhVien.resx">
       <DependentUpon>TrangchuSInhVien.cs</DependentUpon>

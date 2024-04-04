@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TrangchuGiaoVien));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnDangXuat = new System.Windows.Forms.Button();
             this.pnlMenu = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
             this.button6 = new System.Windows.Forms.Button();
@@ -57,6 +56,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblMSSV = new System.Windows.Forms.Label();
             this.lblName = new System.Windows.Forms.Label();
+            this.btnDangXuat = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.pnlMenu.SuspendLayout();
             this.panel9.SuspendLayout();
@@ -85,22 +85,8 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1278, 726);
+            this.panel1.Size = new System.Drawing.Size(1620, 817);
             this.panel1.TabIndex = 2;
-            // 
-            // btnDangXuat
-            // 
-            this.btnDangXuat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(171)))), ((int)(((byte)(150)))));
-            this.btnDangXuat.FlatAppearance.BorderSize = 0;
-            this.btnDangXuat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDangXuat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDangXuat.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnDangXuat.Location = new System.Drawing.Point(1125, 20);
-            this.btnDangXuat.Name = "btnDangXuat";
-            this.btnDangXuat.Size = new System.Drawing.Size(125, 48);
-            this.btnDangXuat.TabIndex = 0;
-            this.btnDangXuat.Text = "Đăng Xuất";
-            this.btnDangXuat.UseVisualStyleBackColor = false;
             // 
             // pnlMenu
             // 
@@ -116,7 +102,7 @@
             this.pnlMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlMenu.Location = new System.Drawing.Point(0, 0);
             this.pnlMenu.Name = "pnlMenu";
-            this.pnlMenu.Size = new System.Drawing.Size(286, 726);
+            this.pnlMenu.Size = new System.Drawing.Size(286, 817);
             this.pnlMenu.TabIndex = 1;
             // 
             // panel9
@@ -399,12 +385,26 @@
             this.lblName.TabIndex = 0;
             this.lblName.Text = "Nguyễn Văn A";
             // 
+            // btnDangXuat
+            // 
+            this.btnDangXuat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(171)))), ((int)(((byte)(150)))));
+            this.btnDangXuat.FlatAppearance.BorderSize = 0;
+            this.btnDangXuat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDangXuat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDangXuat.ForeColor = System.Drawing.SystemColors.Control;
+            this.btnDangXuat.Location = new System.Drawing.Point(1125, 20);
+            this.btnDangXuat.Name = "btnDangXuat";
+            this.btnDangXuat.Size = new System.Drawing.Size(125, 48);
+            this.btnDangXuat.TabIndex = 0;
+            this.btnDangXuat.Text = "Đăng Xuất";
+            this.btnDangXuat.UseVisualStyleBackColor = false;
+            // 
             // TrangchuGiaoVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(171)))), ((int)(((byte)(150)))));
-            this.ClientSize = new System.Drawing.Size(1278, 726);
+            this.ClientSize = new System.Drawing.Size(1620, 817);
             this.Controls.Add(this.panel1);
             this.Name = "TrangchuGiaoVien";
             this.Text = "TrangchuGiaoVien";
