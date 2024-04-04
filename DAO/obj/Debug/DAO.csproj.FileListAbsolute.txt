@@ -148,6 +148,19 @@ D:\Agile\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\Agile\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Agile\DAO\obj\Debug\DAO.dll
 D:\Agile\DAO\obj\Debug\DAO.pdb
+<<<<<<< HEAD
+D:\Agile\PQLSV-78\DAO\bin\Debug\DAO.dll
+D:\Agile\PQLSV-78\DAO\bin\Debug\DAO.pdb
+D:\Agile\PQLSV-78\DAO\bin\Debug\DTO.dll
+D:\Agile\PQLSV-78\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\PQLSV-78\DAO\bin\Debug\DTO.pdb
+D:\Agile\PQLSV-78\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\PQLSV-78\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Agile\PQLSV-78\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Agile\PQLSV-78\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Agile\PQLSV-78\DAO\obj\Debug\DAO.dll
+D:\Agile\PQLSV-78\DAO\obj\Debug\DAO.pdb
+=======
 D:\Agile\PQLSV-8\DAO\bin\Debug\DAO.dll
 D:\Agile\PQLSV-8\DAO\bin\Debug\DAO.pdb
 D:\Agile\PQLSV-8\DAO\bin\Debug\DTO.dll
@@ -159,3 +172,4 @@ D:\Agile\PQLSV-8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\Agile\PQLSV-8\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Agile\PQLSV-8\DAO\obj\Debug\DAO.dll
 D:\Agile\PQLSV-8\DAO\obj\Debug\DAO.pdb
+>>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99

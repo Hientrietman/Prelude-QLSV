@@ -176,6 +176,21 @@ D:\Agile\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\Agile\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Agile\BUS\obj\Debug\BUS.dll
 D:\Agile\BUS\obj\Debug\BUS.pdb
+<<<<<<< HEAD
+D:\Agile\PQLSV-78\BUS\bin\Debug\BUS.dll
+D:\Agile\PQLSV-78\BUS\bin\Debug\BUS.pdb
+D:\Agile\PQLSV-78\BUS\bin\Debug\DAO.dll
+D:\Agile\PQLSV-78\BUS\bin\Debug\DTO.dll
+D:\Agile\PQLSV-78\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\PQLSV-78\BUS\bin\Debug\DAO.pdb
+D:\Agile\PQLSV-78\BUS\bin\Debug\DTO.pdb
+D:\Agile\PQLSV-78\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\PQLSV-78\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Agile\PQLSV-78\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Agile\PQLSV-78\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Agile\PQLSV-78\BUS\obj\Debug\BUS.dll
+D:\Agile\PQLSV-78\BUS\obj\Debug\BUS.pdb
+=======
 D:\Agile\PQLSV-8\BUS\bin\Debug\BUS.dll
 D:\Agile\PQLSV-8\BUS\bin\Debug\BUS.pdb
 D:\Agile\PQLSV-8\BUS\bin\Debug\DAO.dll
@@ -189,3 +204,4 @@ D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.dll
 D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.pdb
+>>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99
