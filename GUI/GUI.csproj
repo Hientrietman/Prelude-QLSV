@@ -77,12 +77,6 @@
     <Compile Include="DoiMatKhauMoi.Designer.cs">
       <DependentUpon>DoiMatKhauMoi.cs</DependentUpon>
     </Compile>
-    <Compile Include="GvChonLopHocPhan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GvChonLopHocPhan.Designer.cs">
-      <DependentUpon>GvChonLopHocPhan.cs</DependentUpon>
-    </Compile>
     <Compile Include="QuenMatKhau.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,9 +96,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DoiMatKhauMoi.resx">
       <DependentUpon>DoiMatKhauMoi.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GvChonLopHocPhan.resx">
-      <DependentUpon>GvChonLopHocPhan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QuenMatKhau.resx">
       <DependentUpon>QuenMatKhau.cs</DependentUpon>
