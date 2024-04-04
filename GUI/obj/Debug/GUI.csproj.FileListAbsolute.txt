@@ -501,6 +501,7 @@ D:\Agile\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 D:\Agile\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Agile\GUI\obj\Debug\GUI.exe
 D:\Agile\GUI\obj\Debug\GUI.pdb
+<<<<<<< HEAD
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.DoiMatKhau.resources
@@ -527,3 +528,28 @@ D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.TrangChuGiaoVien.resources
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.TrangChuQuanLy.resources
 D:\Agile\PQLSV-78\GUI\obj\Debug\GUI.TrangChuSinhVien.resources
+=======
+D:\Agile\PQLSV-8\GUI\bin\Debug\GUI.exe.config
+D:\Agile\PQLSV-8\GUI\bin\Debug\GUI.exe
+D:\Agile\PQLSV-8\GUI\bin\Debug\GUI.pdb
+D:\Agile\PQLSV-8\GUI\bin\Debug\BUS.dll
+D:\Agile\PQLSV-8\GUI\bin\Debug\DAO.dll
+D:\Agile\PQLSV-8\GUI\bin\Debug\DTO.dll
+D:\Agile\PQLSV-8\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Agile\PQLSV-8\GUI\bin\Debug\BUS.pdb
+D:\Agile\PQLSV-8\GUI\bin\Debug\DAO.pdb
+D:\Agile\PQLSV-8\GUI\bin\Debug\DTO.pdb
+D:\Agile\PQLSV-8\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.DoiMatKhauMoi.resources
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.QuenMatKhau.resources
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.TaoTaiKhoan.resources
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.exe
+D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.pdb
+>>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99
