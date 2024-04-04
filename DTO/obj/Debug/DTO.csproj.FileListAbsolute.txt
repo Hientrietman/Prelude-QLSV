@@ -103,3 +103,12 @@ D:\Agile\PQLSV-8\DTO\obj\Debug\DTO.csproj.CopyComplete
 D:\Agile\PQLSV-8\DTO\obj\Debug\DTO.dll
 D:\Agile\PQLSV-8\DTO\obj\Debug\DTO.pdb
 >>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99
+D:\Source Code\PTPM\Thư mục mới\DTO\bin\Debug\DTO.dll
+D:\Source Code\PTPM\Thư mục mới\DTO\bin\Debug\DTO.pdb
+D:\Source Code\PTPM\Thư mục mới\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Source Code\PTPM\Thư mục mới\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Source Code\PTPM\Thư mục mới\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Source Code\PTPM\Thư mục mới\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Source Code\PTPM\Thư mục mới\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Source Code\PTPM\Thư mục mới\DTO\obj\Debug\DTO.dll
+D:\Source Code\PTPM\Thư mục mới\DTO\obj\Debug\DTO.pdb

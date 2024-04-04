@@ -205,3 +205,16 @@ D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.dll
 D:\Agile\PQLSV-8\BUS\obj\Debug\BUS.pdb
 >>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\BUS.dll
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\BUS.pdb
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\DAO.dll
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\DTO.dll
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\DAO.pdb
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\DTO.pdb
+D:\Source Code\PTPM\Thư mục mới\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Source Code\PTPM\Thư mục mới\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Source Code\PTPM\Thư mục mới\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Source Code\PTPM\Thư mục mới\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Source Code\PTPM\Thư mục mới\BUS\obj\Debug\BUS.dll
+D:\Source Code\PTPM\Thư mục mới\BUS\obj\Debug\BUS.pdb

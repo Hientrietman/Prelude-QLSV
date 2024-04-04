@@ -553,3 +553,29 @@ D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.exe
 D:\Agile\PQLSV-8\GUI\obj\Debug\GUI.pdb
 >>>>>>> f6ab09d13d9358ef6803078b90567f8055cfff99
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\GUI.exe.config
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\GUI.exe
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\GUI.pdb
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\BUS.dll
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\DAO.dll
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\DTO.dll
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\BUS.pdb
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\DAO.pdb
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\DTO.pdb
+D:\Source Code\PTPM\Thư mục mới\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.DoiMatKhauMoi.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.QuenMatKhau.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.TaoTaiKhoan.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.TrangChuGiaoVien.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.TrangChuQuanLy.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.TrangChuSinhVien.resources
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.exe
+D:\Source Code\PTPM\Thư mục mới\GUI\obj\Debug\GUI.pdb

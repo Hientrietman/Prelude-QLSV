@@ -6,6 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using DAO;
+using static System.Net.WebRequestMethods;
 
 namespace BUS
 {
@@ -13,6 +14,7 @@ namespace BUS
     {
         private QuenMatKhauBUS() { }
         private static QuenMatKhauBUS instance;
+        int otp;
         public static QuenMatKhauBUS Instance
         {
             get { if (instance == null) instance = new QuenMatKhauBUS(); return instance; }
@@ -23,15 +25,16 @@ namespace BUS
         {
             // Tạo OTP 6 số
             Random random = new Random();
-            return random.Next(100000, 999999).ToString(); // Tạo một số ngẫu nhiên 6 chữ số
+            otp = random.Next(100000, 999999); // Tạo một số ngẫu nhiên 6 chữ số
+            return otp.ToString();
         }
 
         public void SendEmail(string toEmail, string otp)
         {
             // Thông tin tài khoản email
             // nhập tên email với cái mật khẩu ứng dụng để làm
-            string fromEmail = "";
-            string password = "";
+            string fromEmail = "doquochuy19102019@gmail.com";
+            string password = "gyxc ddzj awee cgfo";
 
             // Tạo và cấu hình đối tượng SmtpClient
             SmtpClient client = new SmtpClient("smtp.gmail.com");
@@ -53,6 +56,13 @@ namespace BUS
         public bool KiemTraEmail(string Email)
         {
             return QuenMatKhauDAO.Instance.KiemTraEmail(Email);
+        }
+        public bool KiemTraOTP(string otpTextBox)
+        {
+            if (otp.ToString() == otpTextBox)
+                return true;
+            else
+                return false;
         }
     }
 }

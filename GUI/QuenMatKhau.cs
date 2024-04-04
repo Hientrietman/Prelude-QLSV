@@ -11,7 +11,7 @@ namespace GUI
         {
             InitializeComponent();
         }
-        
+
         private void btnGuiMa_Click(object sender, EventArgs e)
         {
             if (QuenMatKhauBUS.Instance.KiemTraEmail(txtEmail.Text))
@@ -32,7 +32,21 @@ namespace GUI
 
         private void btnXacNhan_Click(object sender, EventArgs e)
         {
-            
+            if (QuenMatKhauBUS.Instance.KiemTraOTP(txtOTP.Text) == true)
+            {
+
+                this.Hide();
+
+                DoiMatKhau doiMatKhau = new DoiMatKhau();
+                doiMatKhau.email = txtEmail.Text;   //Truyền thông tin email sang form DoiMatKhau
+                doiMatKhau.ShowDialog();
+                this.Close();
+            }
+            else
+            {
+                // Hiển thị thông báo cho người dùng
+                MessageBox.Show("Mã OTP không hợp lệ!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }
