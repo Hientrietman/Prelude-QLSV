@@ -77,6 +77,12 @@
     <Compile Include="DoiMatKhauMoi.Designer.cs">
       <DependentUpon>DoiMatKhauMoi.cs</DependentUpon>
     </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="QuenMatKhau.cs">
       <SubType>Form</SubType>
     </Compile>
