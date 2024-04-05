@@ -8,6 +8,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -26,6 +27,10 @@ namespace GUI
         //kiểm tra xem người dùng đã nhập đầy đủ thông tin hay chưa
         public bool KiemTraMatKhau()
         {
+            var hasNumber = new Regex(@"[0-9]+");
+            var hasUpperChar = new Regex(@"[A-Z]+");
+            var hasLowerChar = new Regex(@"[a-z]+");
+            var hasSymbols = new Regex(@"[!@#$%^&*()_+=\[{\]};:<>|./?,-]");
             if (txtOldPass.Text == "")
             {
                 lblShowInfor1.ForeColor = System.Drawing.Color.Red;
@@ -54,13 +59,6 @@ namespace GUI
                 txtConfPass.Focus();
                 return false;
             }
-            else if (txtConfPass.Text.Length < 8)
-            {
-                lblShowInfor3.ForeColor = System.Drawing.Color.Red;
-                lblShowInfor3.Text = "Mật khẩu phải nhiều hơn 7 kí tự!";
-                txtNewPass.Focus();
-                return false;
-            }
             else if (txtOldPass.Text != oldPass)
             {
                 lblShowInfor3.ForeColor = System.Drawing.Color.Red;
@@ -72,6 +70,39 @@ namespace GUI
             {
                 lblShowInfor3.ForeColor = System.Drawing.Color.Red;
                 lblShowInfor3.Text = "Mật khẩu mới và mật khẩu xác nhận không trùng khớp";
+                txtConfPass.Focus();
+                txtConfPass.SelectAll();
+                return false;
+            }
+            else if (!hasLowerChar.IsMatch(txtNewPass.Text))
+            {
+                lblShowInfor2.ForeColor = System.Drawing.Color.Red;
+                lblShowInfor2.Text = "Mật khẩu mới phải có ít nhất 1 chữ cái thường";
+                txtConfPass.Focus();
+                txtConfPass.SelectAll();
+                return false;
+            }
+            else if (!hasUpperChar.IsMatch(txtNewPass.Text))
+            {
+                lblShowInfor2.ForeColor = System.Drawing.Color.Red;
+                lblShowInfor2.Text = "Mật khẩu mới phải có ít nhất 1 chữ cái in hoa";
+                txtConfPass.Focus();
+                txtConfPass.SelectAll();
+                return false;
+            }
+            else if (!hasNumber.IsMatch(txtNewPass.Text))
+            {
+                lblShowInfor2.ForeColor = System.Drawing.Color.Red;
+                lblShowInfor2.Text = "Mật khẩu mới phải có ít nhất 1 chữ số";
+                txtConfPass.Focus();
+                txtConfPass.SelectAll();
+                return false;
+            }
+
+            else if (!hasSymbols.IsMatch(txtNewPass.Text))
+            {
+                lblShowInfor2.ForeColor = System.Drawing.Color.Red;
+                lblShowInfor2.Text = "Mật khẩu mới phải có ít nhất 1 chữ kí tự đặc biệt";
                 txtConfPass.Focus();
                 txtConfPass.SelectAll();
                 return false;
